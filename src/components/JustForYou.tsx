@@ -336,7 +336,7 @@ export default function JustForYou() {
     {
       image: 'https://img.drz.lazcdn.com/g/kf/S989c3f44c6c74c02b29c7207bf99f23f2.jpg_360x360q80.avif',
       title: 'Ladies& girls  panties',
-      price: 199,
+      price: 5,
       discount: 1,
       rating: 4.2,
       reviews: 1
@@ -352,7 +352,7 @@ export default function JustForYou() {
     {
       image: 'https://img.drz.lazcdn.com/static/pk/p/40764ccbffdf75ee4cc77e23bd393d84.jpg_360x360q80.avif',
       title: 'Bikini - Silk Padded Bra',
-      price: 299,
+      price: 5,
       discount: 50,
       rating: 4.5,
       reviews: 2080
